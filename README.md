@@ -9,7 +9,7 @@ AI-powered far-field speech recognition system using beamforming techniques and 
   <br> </br>
   <img src="https://img.shields.io/badge/Technique-Beamforming-green?style=for-the-badge">
   <br> </br>
-  <img src="https://img.shields.io/badge/Language-Kannada-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Language-Regional-orange?style=for-the-badge">
   <br> </br>
   <img src="https://img.shields.io/badge/ASR-OpenAI%20Whisper-red?style=for-the-badge">
   <br> </br>
